@@ -4,12 +4,12 @@ This is the checklist of tasks to make a good readme:
 
 ## Making a good readme
 
-- [ ] Project title
-- [ ] Description
-- [ ] Getting Started
-- [ ] Prerequisites
-- [ ] Installing
-- [ ] Deployment
-- [ ] Built With
-- [ ] Authors
-- [ ] License
+- [X] Project title
+- [X] Description
+- [X] Getting Started
+- [X] Prerequisites
+- [X] Installing
+- [X] Deployment
+- [X] Built With
+- [X] Authors
+- [X] License
